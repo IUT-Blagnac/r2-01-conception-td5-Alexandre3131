@@ -37,7 +37,7 @@ Prénom:: Alexandre
 Groupe #:: 2A
 
 [%interactive]
-- [X] Enseignants
+- [X] NN
 - [ ] 1
 - [ ] 2
 - [ ] 3
